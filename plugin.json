@@ -1,0 +1,12 @@
+{
+  "ID": "CEA0FDFC6D3B4085823D60DC76F28844",
+  "ActionKeyword": "password",
+  "Name": "Password Generator",
+  "Description": "Generate strong password and add to your clipboard automatically.",
+  "Author": "nguyenvanduocit",
+  "Version": "1.0.1",
+  "Language": "csharp",
+  "Website": "https://github.com/Wox-launcher/Wox",
+  "ExecuteFileName": "Wox.Plugin.PasswordGenerator.dll",
+  "IcoPath": "Images\\app.png"
+}
